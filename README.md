@@ -6,9 +6,9 @@ This project is a test suite made with Cypress containing automated tests design
 
 ## Cypress
 
-It's a framework to create automated tests using Javascript, it was used the Desktop version can be downloaded on the offcial website. 
+It's a framework to create automated tests using Javascript, it was used the Desktop version and can be downloaded on the offcial website. 
 
 
 
 ## Running the Tests
-In order to run the tests, you gonna have downloaded and installed the desktop version. In order to run, simply locate the folder ''Online Calculator Tests'' and double clock on .js file.
+In order to run the tests, you gonna have to have downloaded and installed the desktop version. Once is done, simply locate the folder ''Online Calculator Tests'' and double clock on .js file.
